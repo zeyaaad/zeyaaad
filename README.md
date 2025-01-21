@@ -1,2 +1,8 @@
-- Laravel developer || MERN Stack developer
-
+About Me ℹ️
+🌍 Location: Egypt, Beni Suef
+🎓 Education: Student at WE School of Technology, Application Technology Department, Minya
+👨‍💻 Skills: 
+Proficient in web development with a strong focus on MERN stack (MongoDB, Express.js, React.js, Node.js)
+Experienced with PHP and Laravel for backend development
+🚀 Projects: Successfully worked on multiple projects involving both frontend and backend development
+📚 Learning: Continuously enhancing my skills to stay up-to-date with the latest web development technologies
