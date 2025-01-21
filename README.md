@@ -1,8 +1,8 @@
 About Me ℹ️ </br>
-🌍 Location:
+🌍 Location:</br>
 Egypt, Beni Suef
 
-🎓 Education:
+🎓 Education: </br> 
 Student at WE School of Technology, Application Technology Department, Minya
 
 👨‍💻 Skills:
@@ -11,7 +11,7 @@ Proficient in web development with a strong focus on:
 MERN stack (MongoDB, Express.js, React.js, Node.js)
 PHP
 Laravel
-🚀 Projects:
+🚀 Projects:</br>
 Successfully worked on multiple projects involving both frontend and backend development
 
 📚 Learning:
