@@ -1,19 +1,18 @@
 About Me ℹ️ </br>
 🌍 Location:</br>
-Egypt, Beni Suef
+Egypt, Beni Suef</br>
 
 🎓 Education: </br> 
-Student at WE School of Technology, Application Technology Department, Minya
+Student at <b>Faculty of Engineering, Minya University</b></br>
+Previously studied at <b>WE School of Technology</b>, Application Technology Department</br>
 
-👨‍💻 Skills:
+👨‍💻 Skills:</br>
+- <b>Web Development</b> (Frontend & Backend)</br>
+- <b>MERN Stack:</b> MongoDB, Express.js, React.js, Node.js</br>
+- <b>PHP & Laravel</b></br>
 
-Proficient in web development with a strong focus on:
-MERN stack (MongoDB, Express.js, React.js, Node.js)
-PHP
-Laravel
 🚀 Projects:</br>
-Successfully worked on multiple projects involving both frontend and backend development
+- Successfully completed multiple full-stack web development projects</br>
 
-📚 Learning:
-Continuously enhancing my skills to stay up-to-date with the latest web development technologies
-
+📚 Learning:</br>
+- Continuously enhancing my skills to stay up-to-date with the latest technologies
