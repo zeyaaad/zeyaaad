@@ -3,7 +3,7 @@ About Me ℹ️ </br>
 Egypt, Beni Suef</br>
 
 🎓 Education: </br> 
-Student at <b>Faculty of Engineering, Minya University</b></br>
+Student at <b>Faculty of Engineering, Minya University ,department of computer engineering </b></br>
 Previously studied at <b>WE School of Technology</b>, Application Technology Department</br>
 
 👨‍💻 Skills:</br>
